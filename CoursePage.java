@@ -5,7 +5,7 @@
 
 /**
  *
- * @author soomin
+ * @author Jaea Cho
  */
 public class CoursePage extends javax.swing.JFrame {
 
